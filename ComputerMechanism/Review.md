@@ -49,28 +49,20 @@ D．All of the above.
 A．inside the CPU housing                     B．on the motherboard of older systems               C．on the CPU die                            D．None of the above. 
 30．Which of the following is not SCSI issue?__D__
     A．unique id settings    B．limited cable length  C．Parity    D．without termination
-31．Which interface is not used by hard drive to communicate with the computer?__C__
- A．EIDE                B．SCSI              C．PS2               D． USB 
+* 31．下面哪一个端口不是用于磁盘驱动器于计算机通信的？**PS2（用于鼠标和键盘输入）**
 32．Your IDE CD-Rom drive is attached to the primary IDE adapter with your hard drive. How should its jumpers be set?_D__
     A．to 001             B．as neutral        C．as a master         D．as a slave
 33．Errors caused by clusters that are marked in the FAT as belonging to more than one file are called __ C __ clusters.
 A．double            B．duplicate           C．cross-linked       D．Redundant
-34．Which command can be used to partition a hard drive?__A__
- A．fdisk                 B．format             C．check             D．defrag 
+* 34．哪一个指令可以用于磁盘分区？**fdisk** 
 35．Master and slave designations for EIDE devices are not made by _ D ___.
 A．setting jumpers                           B．setting DIP switches 
 C．using a special cable-select data cable         D．changing the BIOS
 36．Which is used by disk drives to store more sectors per track on outer tracks than on inner tracks?__B__
  A．IEEE1394            B．ZBR            C．Fibre Channel      D．COM  
-37．Which does not support NTFS? _ D ___
-A．Windows NT   B．Windows 2000  C．Windows XP    D．Windows 98
-38．Which bus is not used by video cards?__C__  
- A．VESA bus             B．PCI bus         C．DIN bus          D．AGP bus 
-39．IDE __ A __.
-A．	supports only four internal devices
-B．	supports both internal and external devices
-C．	allows you to add more devices to a system
-D．	Both A and C
+37．哪一个系统不支持NTFS格式？**Windows 98**
+* 38．哪一个总线不是用于图形卡？**DIN总线**
+* 39．IDE**只支持4个内部设备**
 40．__A__ processor have small number of operating instructions to perform.
  A．RISC                 B．CISC             C．MMX           D．SSE
 41．USB is _B___, meaning that a device can be attached to a USB port while the computer is running, and the host controller will sense the device and configure it without your having to reboot the computer.
