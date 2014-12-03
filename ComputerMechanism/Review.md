@@ -39,7 +39,7 @@
 * 38.你的CD-Rom电缆连接着你的**声卡或者集成声音处理的主板**。
 * 39.当计算机**第一次启动或者按下重置键**时会完成POST（Power-on，self-test）。
 * 40.在下列所有图中，A、B、C、D、E和F表示数据块，p1、p2和p3表示组合。哪一个图标示RAID5？
-![Image](images/Choose-40.png)
+![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Choose-40.png)
 * 41.哪个设备用于向调制解调器发送AT指令？**混合终端（HyperTerminal）**
 * 42.52x CD-ROM的数据速率是**7800KBps**
 * 43.下面的设备中，不使用光学存储技术的是**ZIP**。
@@ -47,7 +47,7 @@
 * 45.**TWAIN**是一套用于在图像获取设备和应用程序间通信的协议和程序接口。
 * 46.在一个SCSI子系统中，**HVD型端子**不是与单端型SCSI线缆一起使用的端子类型。
 * 47.哪一个标识标明了HVD SCSI？  
-![Image](images/Choose-66.png)
+![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Choose-66.png)
 * 48.下面哪一个端口不是用于磁盘驱动器于计算机通信的？**PS2（用于鼠标和键盘输入）**
 * 49.哪一个指令可以用于磁盘分区？**fdisk**
 * 50.下面哪一项技术被用作在外磁轨上存储更多的扇区？**ZBR**
@@ -55,10 +55,10 @@
 * 52.哪一个总线并不用于图形卡？**DIN总线**
 * 53.下面哪一个重要组件不再主板上？ **电源（Power supply）**
 * 54.图示的是一个奔腾2处理器的组件，箭头所指部分是**后端**总线。
-![Image](images/Choose-54.png)
+![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Choose-52.png)
 * 55.**RISC**制式的处理器只有少量的指令。
 * 56.下面哪个符号用于代表晶体管？
-![Image](images/Choose-56.png)
+![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Choose-56.png)
 * 57.主板的设置信息无法被存储在**BIOS芯片**中。
 * 58.使用8位存储字母A应当是**01000001**
 * 59.在计算机中，最大、最重要的电路板是**主板（Motherboard）**
