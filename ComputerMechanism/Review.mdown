@@ -10,24 +10,15 @@
 * 9．在安装RIMM内存时，**边缘的缺口**可以帮助你决定插入的方向。
 * 10．第一个自带扩展缓存的英特尔处理器型号是**Pentium Pro**。
 * 11．系统使用的二进制数字是**0和1**。
-12．PCI devices do not have jumper settings or dip switches. How are they configured? ___A___ 
- A．CMOS setup  B．through DOS  C．Windows setup  D．they are always self-configuring
-13．Which is the storage capacity of a single-sided double-layer DVD?__B__
-A．4.7GB            B．8.5GB           C． 9.4GB            D．17GB
-14．Which component stores an electrical charge?__D__
-  A．diode            B．transistor       C．resistor         D．capacitor
-15．__ B __ ROM allows you to upgrade system BIOS without having to replace the ROM chip..
-A．System           B．Flash               C．BIOS             D．Startup 
-16．Which of the following is input devices only? __C__  
-  A．modem          B．video card      C．keyboard       D．SCSI controller
-17．__A__defines a standard software protocol and API (application programming interface) for communication between software applications and image acquisition devices (the source of the data).
- A．TWAIN             B．ACPI             C．APM             D． DPMS 
-18．What's the best way to protect your hard drive data?__A__
-  A．regular backups                    B．periodically defrag it  
-  C．run chkdsk at least once a week       D．run scandisk at least once a week
-19．The CPU could not do its job without the assistance of the _B___, a group of microchips on the motherboard that control the flow of data and instructions to and from the CPU, providing careful timing of activities.
-A．processors          B．chip set           C．CMOS         D．BIOS
-20．You have an old PC that you decide to upgrade with a 1 gig IDE hard drive. You find that you can't configure cmos to see the entire hard drive. The best you can do is 540 meg. What is the fix?__C__
+* 12．PCI设备没有跳线或者拨动开关。所以应当使用**CMOS配置**来设置相关参数。
+* 13．单面双层DVD光盘的存储容量是**8.5 GB**。
+* 14．**电容器**可以存储电荷。
+* 15．**Flash ROM**可以允许你在不更换ROM芯片的情况下升级BIOS。
+* 16．**键盘**只能用于输出。
+* 17．**TWAIN**是一套用于在图像获取设备和应用程序间通信的协议和程序接口。
+* 18．保护磁盘数据的最佳方式是**备份**。
+* 19．**芯片组（南北桥）**是一组用于在主板上控制数据流和CPU指令的芯片。没有这些芯片，CPU无法正常工作。
+* 20．You have an old PC that you decide to upgrade with a 1 gig IDE hard drive. You find that you can't configure cmos to see the entire hard drive. The best you can do is 540 meg. What is the fix?__C__
  A．put multiple partitions on the hard drive
  B．manually input the sectors, cylinders, and heads of the hard drive
  C．use a device driver that makes the bios see the drive as simply a block storage device, or upgrade the bios if possible
