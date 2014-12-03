@@ -14,41 +14,21 @@
 * 13．单面双层DVD光盘的存储容量是**8.5 GB**。
 * 14．**电容器**可以存储电荷。
 * 15．**Flash ROM**可以允许你在不更换ROM芯片的情况下升级BIOS。
-* 16．**键盘**只能用于输出。
+* 16．**键盘**只能用于输入。
 * 17．**TWAIN**是一套用于在图像获取设备和应用程序间通信的协议和程序接口。
 * 18．保护磁盘数据的最佳方式是**备份**。
 * 19．**芯片组（南北桥）**是一组用于在主板上控制数据流和CPU指令的芯片。没有这些芯片，CPU无法正常工作。
-* 20．You have an old PC that you decide to upgrade with a 1 gig IDE hard drive. You find that you can't configure cmos to see the entire hard drive. The best you can do is 540 meg. What is the fix?__C__
- A．put multiple partitions on the hard drive
- B．manually input the sectors, cylinders, and heads of the hard drive
- C．use a device driver that makes the bios see the drive as simply a block storage device, or upgrade the bios if possible
- D．make the bios think it's a SCSI drive 
-21．The first "E" in EIDE stands for __B__.
-A．Extra              B．Enhanced         C．Electronic       D．Existing
-22．Most PCs give a single beep on bootup to indicate they are ok hardware wise. You boot your PC and don't get a beep. What should you check first?__B__
- A．microprocessor        B．speaker        C．ram         D． system board
-23．Typically, __A__ cables are flat and wide.
-A．data                B．power            C．expansion          D．Circuit
-24．You have a PC with no video on a known good monitor. Pick the best order you should follow in tracking down the problem__A__
- A．check that PC and monitor are plugged in, check that monitor brightness is turned up, check that PC fan is running, remove all option cards
- B．replace the video card, replace the monitor, replace the power supply, replace the system board, try a different monitor
- C．check that everything's plugged in, replace hard drive, replace ram
- D．check PC supply voltages, replace video card, replace CPU
-25．In a SCSI subsystem,which terminator is not the type used with single-ended SCSI cables?_C_
- A．Passive terminator  B．Active terminator  C．HVD terminator  D．Forced perfect terminator 
-26．On a flat data cable, a red or blue stripe means_B_
- A．null connection    B．pin 1          C．high voltage      D．ground 
-27．All devices in a computer are __D__.
-A．installed directly on the motherboard
-B．linked to the motherboard by a cable connected to a port on the motherboard
-C．indirectly linked to the motherboard by expansion cards
-D．All of the above.
-28．IDE cables have how many pins?__C__
- A．100             B．50             C．40             D． 25 
-29．L1 cache is located _ C ___.
-A．inside the CPU housing                     B．on the motherboard of older systems               C．on the CPU die                            D．None of the above. 
-30．Which of the following is not SCSI issue?__D__
-    A．unique id settings    B．limited cable length  C．Parity    D．without termination
+* 20．如果你想往一台老电脑上添加1G的磁盘，但是你无法配置CMOS来显示整块磁盘，它最大只能显示540M的话。你应当**使用设备驱动来让BIOS识别磁盘为块存储设备否则你需要升级你的BIOS**。
+* 21．EIDE的首字母“E”表示**强化的（Enhanced）**。
+* 22．大部分PC都会在启动的时候”滴“一声来告诉你硬件准备完毕。如果你启动的时候没有听到这一声提示，你首先应当检查**扬声器**。
+* 23．通常情况下**数据**线缆是宽且扁平的。。
+* 24．PC链接在一台已知良好的显示器上但是没有图像显示。这时，你应当**首先检查PC和显示器的插口，然后确认显示器已经点亮，接着检查PC的风扇运转，最后移除所有不必要的组件**
+* 25．在一个SCSI子系统中，**HVD型端子**不是与单端型SCSI线缆一起使用的端子类型。
+* 26．在扁平数据线中，红色或者蓝色的条纹意味着**第一根线**。 
+* 27．所有的计算机设备都**1.直接与主板相连 2.使用连接线缆和端口与主板相连 3.使用扩展卡与主板非直接相连**。
+28．IDE线缆共有40针
+29．在老式系统中，L1高速缓存位于主板之上。
+30．下面那一项不是SCSI的问题：**没有终端**
 31．Which interface is not used by hard drive to communicate with the computer?__C__
  A．EIDE                B．SCSI              C．PS2               D． USB 
 32．Your IDE CD-Rom drive is attached to the primary IDE adapter with your hard drive. How should its jumpers be set?_D__
