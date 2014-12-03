@@ -53,7 +53,7 @@
 * 50.下面哪一项技术被用作在外磁轨上存储更多的扇区？**ZBR**
 * 51.缓存存储器主要由**SRAM**组成。
 * 52.哪一个总线并不用于图形卡？**DIN总线**
-* 53.下面哪一个重要组件不再主板上？ **电源（Power supply）**
+* 53.下面哪一个重要组件不在主板上？ **电源（Power supply）**
 * 54.图示的是一个奔腾2处理器的组件，箭头所指部分是**后端**总线。  
 ![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Choose-52.png)
 * 55.**RISC**制式的处理器只有少量的指令。
