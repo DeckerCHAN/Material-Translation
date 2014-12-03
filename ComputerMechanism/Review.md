@@ -54,10 +54,10 @@
 * 51.缓存存储器主要由**SRAM**组成。
 * 52.哪一个总线并不用于图形卡？**DIN总线**
 * 53.下面哪一个重要组件不再主板上？ **电源（Power supply）**
-* 54.图示的是一个奔腾2处理器的组件，箭头所指部分是**后端**总线。
+* 54.图示的是一个奔腾2处理器的组件，箭头所指部分是**后端**总线。  
 ![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Choose-52.png)
 * 55.**RISC**制式的处理器只有少量的指令。
-* 56.下面哪个符号用于代表晶体管？
+* 56.下面哪个符号用于代表晶体管？  
 ![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Choose-56.png)
 * 57.主板的设置信息无法被存储在**BIOS芯片**中。
 * 58.使用8位存储字母A应当是**01000001**
