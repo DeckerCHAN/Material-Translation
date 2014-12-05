@@ -62,6 +62,7 @@
 * 57.主板的设置信息无法被存储在**BIOS芯片**中。
 * 58.使用8位存储字母A应当是**01000001**
 * 59.在计算机中，最大、最重要的电路板是**主板（Motherboard）**
+
 ##判断题
 * 1．下面这张图图示了SIMM内存模块的安装。**（正确）**  
 ![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Judge-1.png)
