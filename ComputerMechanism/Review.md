@@ -14,7 +14,7 @@
 * 13.一个DVD光盘可以存储**8.5 GB**的数据。
 * 14.**MMX和SSE指令集**是由英特尔公司编写的。
 * 15.**ATX**是工厂生产的最为流行的机箱型号。
-* 16.可以使用**C:/S**的指令格式来使驱动器可以被启动。
+* 16.[疑问]可以使用**C:/S**的指令格式来使驱动器可以被启动。
 * 17.DVD+RW设备和**DVD-RAM**设备不兼容。
 * 18.**低级**格式化是在出厂之前完成的。
 * 19.IDE **只支持4个内部设备**。
@@ -139,3 +139,50 @@
 * 28．所有的通讯、存储和数据处理在展示给用户之前都是以**二进制**形式运行在计算机内。
 * 29．标准输入设备是**键盘**。
 * 30．USB控制器在有USB设备运转时唤醒**一个单独的**IRQ通路。
+
+##简答题
+* 1.集成电路最基础的电子元件是？**晶体管**
+* 2.硬件的四大主要功能是？**输入、处理、输出和存储**
+* 3.如果硬盘有五个盘片，那么它有多少个磁头？**十个**
+* 4.在不包括主机适配器的情况下，SCSI最大支持多少个设备？**十五个**
+* 5.奔腾处理器的哪个型号支持SSE指令集？**奔腾III**
+* 6.光盘的哪一个面上包含数据？**亮面（没有印刷的一面）**
+* 7.列出五个可能导致CD数据丢失的行为：  
+  * 1.**污点**
+  * 2.**指纹**
+  * 3.**划痕**
+  * 4.**裂缝**
+  * 5.**轻微熔化**  
+* 8.你正在安装一个需要引导的SCSI硬盘。列出正确的操作步骤：
+  * 1.**将跳线设置为0**
+  * 2.**分区**
+  * 3.**高级格式化**
+* 9.声卡通常使用哪个IRQ？**第五个**
+* 10.下面的标志通常代表着什么？
+
+Answer:
+1.Transistor
+2.Diode
+3. capacitor
+4.resistor
+11.	There are two same computers called α and β,each has only one hard disk that has three volumes(C, D, and E). Now put β's hard disk into α directly without repartition, and connect the drive using the master connector on the secondary IDE cable.Then give the new drive letter assigned to the β's drive E.
+Answer: H
+12.	When are the system resources assigned to hardware, and what is responsible for the assign?
+Answer: At the boot up step,the ROM BIOS startup program is responsible for the assign.
+13.	List any five features of a CRT monitor.
+Answer: Screen size,Refresh rate,Interlaced,Dot pitch,Resolution,Multiscan,Green monitior
+14.	List the three types of UPS.
+Answer: Standby UPS (OFF-LINE UPS), Inline UPS(ON-LINE UPS), Line-interactive UPS
+15.	According to the figure below,list the four basic functions of a video card.
+
+Answer:
+1.The digital data goes from the system bus to the video chip set on the video card.
+2.The video chip set writes the digital data to video memory on the card.
+3.The data stored in video memory is passed to the digital analog converter(RAM DAC).where it is converted from digital data to ananlog data.
+4.RAM DAC passes the analog data to the monitor.
+16.	What is the form factor of the motherboard shown in the figure below?
+
+Answer: AT Form Factor
+17.	The figure below shows a three-prong plug.Under normal circumstances,which should be the hot, neutral, and the ground position? And what can be used to verify them are wired correctly?
+
+Answer:  A:Neutral, B: Hot, C: Ground. Receptacle tester
