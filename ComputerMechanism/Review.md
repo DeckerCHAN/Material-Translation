@@ -62,6 +62,7 @@
 * 57.主板的设置信息无法被存储在**BIOS芯片**中。
 * 58.使用8位存储字母A应当是**01000001**
 * 59.在计算机中，最大、最重要的电路板是**主板（Motherboard）**
+
 ##判断题
 * 1．下面这张图图示了SIMM内存模块的安装。**（正确）**  
 ![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Judge-1.png)
@@ -106,3 +107,35 @@
 * 38．C-RIMM或RIMM内存可以安装在主板上的任何一个RIMM内存插槽中**（正确）**
 * 39．当使用奇偶校验时，比特序列（不包含校验位）中“1”的个数为奇数时将校验位设置为“1”。保证包含校验位在内的比特序列中“1”的个数恒为偶数个。**（正确）**
 * 40．6针的IEEE1394接口会使用计算机内的电压为设备提供电力。**（正确）**
+
+##填空题
+* 1．在大部分情况下， 通用非同步收发传输器（UART）芯片在完成工作之后会发送一个**停止（STOP）**信号。
+* 2．DVD光盘中的数据被读取后，必须经过**解码（Decode）**才能展示在显示器上
+* 3．**调制解调器**是用于PC与电话线通讯的设备。
+* 4．8bit音频使用的样本量（sample size）是**256**。
+* 5．**根目录**表包含着可容纳文件和目录数量的固定数字。
+* 6．SCSI磁盘和CPU通过SCSI主机适配器相互通讯，而IDE则直接通过**系统总线**与CPU通讯。
+* 7．当使用FAT文件格式时，一个**簇**（有时被称作文件分配单元）是一组系统用于存储文件的或者文件一部分的最小单元-扇区。
+* 8．**串行**ATA标准使用串行数据通路而不是传统的并行数据通路。
+* 9．在磁盘表面可以被拆分为多个扇区的环形轨道叫做**磁道**
+* 10．BIOS在开机时进行**POST（开机自检）**来确保所有的关键硬件都在工作。
+* 11．**人体工学设计**意义是：为安全的舒适的人机交互而设计。
+* 12．当使用FAT文件格式时，一个**簇**（有时被称作文件分配单元）是一组系统用于存储文件的或者文件一部分的最小单元-扇区。
+* 13．**奇偶校验**是通过让每一个字节中的“1”的数量为奇数或者偶数的校验过程。
+* 14．声音由模拟信号转为数字信号并存储的过程是：先**采样**后数字化。
+* 15．用作总线的电路传输四种：电能、控制信号、内存地址和**数据（data）**。
+* 16．使用磁带机存储数据最大的劣势是：数据只能**连续（sequential）**。
+* 17．The classic case with four drive bays and six expansion slots that sits on your desk doing double duty as a monitor stand is called a(n) _______desktop_____________ case.
+* 18．The _________faceplate___________ or I/O shield is a metal plate that comes with the computer case and fits over the ports to create a well-fitting enclosure for them.
+* 19．_____SIMD (single instruction, multiple data)_______________ is a process that allows the CPU to receive a single instruction and then execute it on multiple pieces of data rather than receiving the same instruction each time each time each piece of data is received.
+* 20．A(n) _______track_____________ is a circle on a disk surface that is divided into segments called sectors.
+* 21．   PCI controller   manages system resources for all PCI cards.  
+* 22．The first 32-bit bus for PCs is      Microchannel Architecture (MCA)     .
+* 23．ATX uses a single P1 Power connection,but AT type motherboards use   P8 and P9   power connection.
+* 24．   Resolution    is the number of spots,or pixels,on a screen that can be addressed by software.
+* 25．   The System Clock    keeps beat for motherboard activities and it's frequency is measured in megahertz (MHz).
+* 26．When troubleshooting PC hardware problems, a      multimeter      can be used to measure continuity.
+* 27．System Resources include Memory addresses,     I/O addresses    , Interrupt request numbers (IRQs) and Direct memory access (DMA) channels.
+* 28．All communication,storage,and processing of data inside a computer are in    binary     until presented as output to the user.
+* 29．The standard input device is   Keyboard  .
+* 30．The USB controller has   a single   IRQ line that it raises when any USB device needs attention.
