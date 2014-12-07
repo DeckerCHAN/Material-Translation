@@ -125,17 +125,17 @@
 * 14．声音由模拟信号转为数字信号并存储的过程是：先**采样**后数字化。
 * 15．用作总线的电路传输四种：电能、控制信号、内存地址和**数据（data）**。
 * 16．使用磁带机存储数据最大的劣势是：数据只能**连续（sequential）**。
-* 17．The classic case with four drive bays and six expansion slots that sits on your desk doing double duty as a monitor stand is called a(n) _______desktop_____________ case.
-* 18．The _________faceplate___________ or I/O shield is a metal plate that comes with the computer case and fits over the ports to create a well-fitting enclosure for them.
-* 19．_____SIMD (single instruction, multiple data)_______________ is a process that allows the CPU to receive a single instruction and then execute it on multiple pieces of data rather than receiving the same instruction each time each time each piece of data is received.
-* 20．A(n) _______track_____________ is a circle on a disk surface that is divided into segments called sectors.
-* 21．   PCI controller   manages system resources for all PCI cards.  
-* 22．The first 32-bit bus for PCs is      Microchannel Architecture (MCA)     .
-* 23．ATX uses a single P1 Power connection,but AT type motherboards use   P8 and P9   power connection.
-* 24．   Resolution    is the number of spots,or pixels,on a screen that can be addressed by software.
-* 25．   The System Clock    keeps beat for motherboard activities and it's frequency is measured in megahertz (MHz).
-* 26．When troubleshooting PC hardware problems, a      multimeter      can be used to measure continuity.
-* 27．System Resources include Memory addresses,     I/O addresses    , Interrupt request numbers (IRQs) and Direct memory access (DMA) channels.
-* 28．All communication,storage,and processing of data inside a computer are in    binary     until presented as output to the user.
-* 29．The standard input device is   Keyboard  .
-* 30．The USB controller has   a single   IRQ line that it raises when any USB device needs attention.
+* 17．放在你桌面上不但提供着四格磁盘支架和六个扩展槽还能作为显示器底架的箱子叫做**机箱**。
+* 18．[不确定]**面板**或者I/O外壳是计算机外壳的一部分，它能和端口贴合为其提供一个良好的封闭环境。
+* 19．**SIMD (single instruction, multiple data)**是一个允许CPU接收一个指令就处理多个数据的流程而不是传统的每接收一个指令只处理一个数据。
+* 20．在磁盘表面可以被拆分为多个扇区的环形轨道叫做**磁道**
+* 21．PCI控制器管理着所有的PCI设备系统资源。
+* 22．PC上最早使用的32位总线是**Microchannel Architecture (MCA)**
+* 23．ATX主板使用一个P1电源供电，但是AT型主板使用**P8和P9**同时供电。
+* 24．**分辨率**是屏幕上可以被软件使用的点或者像素的数量。
+* 25．主板的活动由**系统时钟**维持，它的频率使用兆赫兹（MHz）来衡量。
+* 26．在检查PC的故障时，**万用表**可以用来判断线路的连通性。
+* 27．系统资源包括内存地址、**I/O地址**、IRQ和DMA。
+* 28．所有的通讯、存储和数据处理在展示给用户之前都是以**二进制**形式运行在计算机内。
+* 29．标准输入设备是**键盘**。
+* 30．USB控制器在有USB设备运转时唤醒**一个单独的**IRQ通路。
