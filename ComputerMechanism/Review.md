@@ -183,9 +183,9 @@
   * 3.存储的数字信号被传输到**模拟信号转换器（RAM DAC）**，通过它来将数字信号转换为模拟信号。
   * 4.模拟信号转换器将转换完的模拟信号传送到显示器。
 * 16.[不确定]下图的主板使用的是什么制式？  
-![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Answer-16.png)
-**AT制式**
+![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Answer-16.png)  
+**答：AT制式**
 
-* 17.下面这张图图示了一个三项插座。在大部分情况下，哪个是火线，哪个是零线，哪个是地线？通过什么方式可以确定它们的接线是正确的？
-![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Answer-17.png)
-**A：零线 B：火线 C：地线。使用插座测试仪（Receptacle tester）可以确定接线正确**
+* 17.下面这张图图示了一个三项插座。在大部分情况下，哪个是火线，哪个是零线，哪个是地线？通过什么方式可以确定它们的接线是正确的？  
+![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Answer-17.png)  
+**答:  A：零线 B：火线 C：地线。使用插座测试仪（Receptacle tester）可以确定接线正确**
