@@ -160,29 +160,32 @@
 * 9.声卡通常使用哪个IRQ？**第五个**
 * 10.下面的标志通常代表着什么？
 
-Answer:
-1.Transistor
-2.Diode
-3. capacitor
-4.resistor
-11.	There are two same computers called α and β,each has only one hard disk that has three volumes(C, D, and E). Now put β's hard disk into α directly without repartition, and connect the drive using the master connector on the secondary IDE cable.Then give the new drive letter assigned to the β's drive E.
-Answer: H
-12.	When are the system resources assigned to hardware, and what is responsible for the assign?
-Answer: At the boot up step,the ROM BIOS startup program is responsible for the assign.
-13.	List any five features of a CRT monitor.
-Answer: Screen size,Refresh rate,Interlaced,Dot pitch,Resolution,Multiscan,Green monitior
-14.	List the three types of UPS.
-Answer: Standby UPS (OFF-LINE UPS), Inline UPS(ON-LINE UPS), Line-interactive UPS
-15.	According to the figure below,list the four basic functions of a video card.
+  * 1.晶体管
+  * 2.二极管
+  * 3.电容器
+  * 4.电阻器
+* 11.两台一模一样的计算机α和β，每台计算机都有一块磁盘并被分区为C、D和E。现在将β的磁盘拆下不重新分区直接连接到α第二条IDE线缆的主连接器上。问开机重新分配盘符后，原β的E盘将使用什么新盘符？
+**答：使用H盘作为新盘符**
+* 12.当系统资源分配给硬件时，谁主要负责分配？
+**答：在启动阶段，在ROM BIOS中的启动程序负责分配工作。**
+* 13.列出CRT显示器的五个参数。
+**答：屏幕大小、刷新率、隔行扫描、点距、分辨率、多重扫描、Green monitior**  
 
-Answer:
-1.The digital data goes from the system bus to the video chip set on the video card.
-2.The video chip set writes the digital data to video memory on the card.
-3.The data stored in video memory is passed to the digital analog converter(RAM DAC).where it is converted from digital data to ananlog data.
-4.RAM DAC passes the analog data to the monitor.
-16.	What is the form factor of the motherboard shown in the figure below?
+* 14.列出三种UPS类型
+  * 1.Standby UPS (OFF-LINE UPS)
+  * 2.Inline UPS(ON-LINE UPS)
+  * 3.Line-interactive UPS
 
-Answer: AT Form Factor
-17.	The figure below shows a three-prong plug.Under normal circumstances,which should be the hot, neutral, and the ground position? And what can be used to verify them are wired correctly?
+* 15.结合下面这张图，列出显卡的四格主要功能。  
+![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Answer-15.png)
+  * 1.数字信息通过系统总线传输到显卡上的图形芯片组。
+  * 2.图形芯片组将数字信息写入显存。
+  * 3.存储的数字信号被传输到**模拟信号转换器（RAM DAC）**，通过它来将数字信号转换为模拟信号。
+  * 4.模拟信号转换器将转换完的模拟信号传送到显示器。
+* 16.[不确定]下图的主板使用的是什么制式？  
+![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Answer-16.png)
+**AT制式**
 
-Answer:  A:Neutral, B: Hot, C: Ground. Receptacle tester
+* 17.下面这张图图示了一个三项插座。在大部分情况下，哪个是火线，哪个是零线，哪个是地线？通过什么方式可以确定它们的接线是正确的？
+![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Answer-17.png)
+**A：零线 B：火线 C：地线。使用插座测试仪（Receptacle tester）可以确定接线正确**
