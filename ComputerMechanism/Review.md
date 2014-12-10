@@ -48,7 +48,7 @@
 * 46.在一个SCSI子系统中，**HVD型端子**不是与单端型SCSI线缆一起使用的端子类型。
 * 47.哪一个标识标明了HVD SCSI？  
 ![Image](https://raw.githubusercontent.com/DeckerCHAN/Material-Translation/master/ComputerMechanism/Images/Choose-66.png)
-* 48.下面哪一个端口不是用于磁盘驱动器于计算机通信的？**PS2（用于鼠标和键盘输入）**
+* 48.下面哪一个端口不是用于磁盘驱动器与计算机通信的？**PS2（用于鼠标和键盘输入）**
 * 49.哪一个指令可以用于磁盘分区？**fdisk**
 * 50.下面哪一项技术被用作在外磁轨上存储更多的扇区？**ZBR**
 * 51.缓存存储器主要由**SRAM**组成。
